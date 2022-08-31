@@ -1,1 +1,1 @@
-# cb-demo-app--2
+Trigger using: `git commit --allow-empty -m "bump" && git push`
